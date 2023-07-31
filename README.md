@@ -1,2 +1,2 @@
 # Analista de Dados - By Google
-Repositório contendo fundamentos, definições e dicas para atuação como analista de dados.
+Repositório contendo fundamentos, definições, dicas e qualificação estruturada para atuação como analista de dados.
