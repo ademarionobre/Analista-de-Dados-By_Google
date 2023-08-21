@@ -1,0 +1,1 @@
+Ao analisar dados, você acessa muitos dos dados de um banco de dados. É onde vivem os dados. Nesta parte do curso, você aprenderá tudo sobre bancos de dados, incluindo como acessá-los e extraí-los, filtrar e classificar os dados que eles contêm. Você também verificará os metadados para descobrir os diferentes tipos e como os analistas os usam.
